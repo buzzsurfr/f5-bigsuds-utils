@@ -10,6 +10,6 @@
 > Script will prompt for password.
 
 #### **Script** ####
-orphanedrules.py
+[orphanedrules.py](https://github.com/buzzsurfr/f5-bigsuds-utils/blob/master/orphanedrules.py)
 ### Tested on Version: ###
 > 11.5
