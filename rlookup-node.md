@@ -10,6 +10,6 @@
 > This will only search the Common partition.
 
 #### **Script** ####
-[orphanedrules.py](https://github.com/buzzsurfr/f5-bigsuds-utils/blob/master/rlookup-node.py)
+[rlookup-node].py](https://github.com/buzzsurfr/f5-bigsuds-utils/blob/master/rlookup-node.py)
 ### Tested on Version: ###
 > 11.5
