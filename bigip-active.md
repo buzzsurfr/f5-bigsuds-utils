@@ -9,6 +9,6 @@
 > Script will prompt for password.
 
 #### **Script** ####
-bigip-active.py
+[bigip-active.py](https://github.com/buzzsurfr/f5-bigsuds-utils/blob/master/bigip-active.py)
 ### Tested on Version: ###
 > 11.5
